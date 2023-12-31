@@ -5,4 +5,5 @@ idea -> I will build my web page with gatsby
 - you use only html and css
 
 namecheap domain deploy
-https://gist.github.com/plembo/84f80c920bb5ac6f19e53fe6f8db1ff7
+- https://gist.github.com/plembo/84f80c920bb5ac6f19e53fe6f8db1ff7
+- https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages/
